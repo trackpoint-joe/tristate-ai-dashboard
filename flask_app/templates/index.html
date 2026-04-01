@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tri-State AI Intelligence Dashboard</title>
+    <link rel="stylesheet" href="/static/css/styles.css">
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+</head>
+<body>
+
+<!-- Sidebar -->
+<nav class="sidebar">
+    <div class="sidebar-logo">
+        <img src="/static/tristate_logo.png" alt="Tri-State">
+    </div>
+    <div class="sidebar-divider"></div>
+    <div class="sidebar-section">
+        <h3>AI & Innovation</h3>
+        <p>Demonstrating practical AI capabilities aligned with Tri-State's strategic priorities and the Responsible Energy Plan.</p>
+    </div>
+    <div class="sidebar-divider"></div>
+    <div class="sidebar-footer">
+        Prototype Demo | Powered by LightGBM & Claude<br>Not for production use
+    </div>
+</nav>
+
+<!-- Main Content -->
+<main class="main">
+    <h1 class="page-title">Tri-State AI Intelligence Dashboard</h1>
+    <p class="page-subtitle">Enterprise AI Capabilities for Generation, Transmission & Member Services</p>
+    <div class="brand-divider"></div>
+
+    <!-- Tab Bar -->
+    <div class="tab-bar">
+        <button class="tab-btn active" onclick="switchTab('sentiment', this)">Sentiment</button>
+        <button class="tab-btn" onclick="switchTab('members', this)">Member Risk</button>
+        <button class="tab-btn" onclick="switchTab('energy', this)">Energy Mix</button>
+        <button class="tab-btn" onclick="switchTab('price', this)">Price Forecast</button>
+        <button class="tab-btn" onclick="switchTab('qa', this)">AI Q&A</button>
+    </div>
+
+    <!-- ============================================ -->
+    <!-- TAB 1: SENTIMENT -->
+    <!-- ============================================ -->
+    <div id="tab-sentiment" class="tab-content active">
+        <h2 style="color:var(--ts-dark)">Public Sentiment Analysis</h2>
+        <p style="color:var(--gray); margin-bottom:0.75rem;">AI-powered analysis of public discourse, news coverage, and regulatory filings related to Tri-State. Sentiment scores range from <strong>-1.0</strong> (very negative) to <strong>+1.0</strong> (very positive).</p>
+        <div class="provenance-bar">
+            📋 <strong>Data:</strong>
+            <span class="badge badge-real" title="25 verified headlines from Colorado Sun, RTO Insider, NPR, CPR News">✓ 25 verified headlines</span>
+            <span class="badge badge-sim" title="475 additional modeled headlines filling coverage gaps">⚠ 475 modeled headlines</span>
+            <span class="badge badge-sim" title="Generated with topic-level base scores, not a live NLP model">⚠ Sentiment scores</span>
+            <br><span class="prod-note">Production: Live news API feeds, NLP sentiment model, empirical bias calibration</span>
+        </div>
+        <div class="kpi-row" id="sentiment-kpis"></div>
+        <div class="chart-container">
+            <div class="chart-title">Monthly Average Sentiment by Topic</div>
+            <div id="sentiment-trend" style="height:450px;"></div>
+        </div>
+        <div class="two-col">
+            <div class="chart-container">
+                <div class="chart-title">Sentiment Distribution by Topic</div>
+                <div id="sentiment-topics" style="height:380px;"></div>
+            </div>
+            <div class="chart-container">
+                <div class="chart-title">Article Volume by Topic</div>
+                <div id="sentiment-volume" style="height:380px;"></div>
+            </div>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Recent Headlines</div>
+            <div id="sentiment-headlines" style="max-height:400px; overflow-y:auto;"></div>
+        </div>
+    </div>
+
+    <!-- ============================================ -->
+    <!-- TAB 2: MEMBER RISK -->
+    <!-- ============================================ -->
+    <div id="tab-members" class="tab-content">
+        <h2 style="color:var(--ts-dark)">Member Retention Risk Intelligence</h2>
+        <p style="color:var(--gray); margin-bottom:0.75rem;">AI-driven early warning system for member cooperative retention. Combines rate analysis, satisfaction signals, and behavioral indicators to predict flight risk.</p>
+        <div class="provenance-bar">
+            📋 <strong>Data:</strong>
+            <span class="badge badge-real" title="Real cooperative names from public Tri-State records">✓ Member names</span>
+            <span class="badge badge-real" title="United Power, LPEA, Kit Carson departures are real events">✓ Departed member events</span>
+            <span class="badge badge-sim" title="Generated from size, state, and rate factors — not actual member data">⚠ Risk scores</span>
+            <span class="badge badge-sim" title="Illustrative rates, not actual contract figures">⚠ Rate figures</span>
+            <br><span class="prod-note">Production: Live member data feeds, board minutes NLP monitoring, actual rate comparisons</span>
+        </div>
+        <div class="kpi-row" id="member-kpis"></div>
+        <div id="member-alert"></div>
+        <div class="chart-container">
+            <div class="chart-title">Member Risk Overview</div>
+            <div id="member-scatter" style="height:480px;"></div>
+            <p style="font-size:0.82rem; color:var(--gray);">Bubble size = annual revenue. Upper-right = high risk + high rate gap. Hover for details.</p>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Risk-Ranked Members</div>
+            <div id="member-table" style="max-height:450px; overflow-y:auto;"></div>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Lessons from Departed Members</div>
+            <div id="departed-table"></div>
+        </div>
+    </div>
+
+    <!-- ============================================ -->
+    <!-- TAB 3: ENERGY MIX -->
+    <!-- ============================================ -->
+    <div id="tab-energy" class="tab-content">
+        <h2 style="color:var(--ts-dark)">Energy Generation Mix & Transition Tracker</h2>
+        <p style="color:var(--gray); margin-bottom:0.75rem;">Tracking Tri-State's generation portfolio evolution — aligned with the <strong>Responsible Energy Plan</strong> targeting <strong>80% CO₂ reduction by 2030</strong>.</p>
+        <div class="provenance-bar">
+            📋 <strong>Data:</strong>
+            <span class="badge badge-real" title="Coal-to-renewables trajectory matches public EIA and Responsible Energy Plan">✓ Trend direction</span>
+            <span class="badge badge-real" title="80% reduction target from Tri-State's Responsible Energy Plan">✓ 2030 target</span>
+            <span class="badge badge-sim" title="Specific monthly percentages are modeled, not from actual filings">⚠ Monthly figures</span>
+            <br><span class="prod-note">Production: EIA API data feeds, Tri-State generation reporting systems</span>
+        </div>
+        <div class="kpi-row" id="energy-kpis"></div>
+        <div class="chart-container">
+            <div class="chart-title">Generation Mix Over Time</div>
+            <div id="energy-mix-chart" style="height:450px;"></div>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">CO₂ Emissions Trend vs 2030 Target</div>
+            <div id="energy-co2-chart" style="height:400px;"></div>
+        </div>
+    </div>
+
+    <!-- ============================================ -->
+    <!-- TAB 4: PRICE FORECAST -->
+    <!-- ============================================ -->
+    <div id="tab-price" class="tab-content">
+        <h2 style="color:var(--ts-dark)">Wholesale Energy Price Forecasting</h2>
+        <p style="color:var(--gray); margin-bottom:0.75rem;">Machine learning model predicting wholesale electricity prices using demand, weather, renewable generation, and natural gas inputs.</p>
+        <div class="provenance-bar">
+            📋 <strong>Data:</strong>
+            <span class="badge badge-model" title="LightGBM + GBR stacking ensemble — production-grade architecture">⚙ ML Architecture</span>
+            <span class="badge badge-real" title="Gas drives price, renewables suppress, temperature is U-shaped — matches real dynamics">✓ Feature relationships</span>
+            <span class="badge badge-sim" title="All price data is generated, not from actual market feeds">⚠ Price data</span>
+            <br><span class="prod-note">Production: SPP RTO real-time market feeds, NOAA weather API, EIA gas price index</span>
+        </div>
+        <div class="kpi-row" id="price-kpis"></div>
+        <div class="chart-container">
+            <div class="chart-title">Recent Price History</div>
+            <div id="price-chart" style="height:400px;"></div>
+        </div>
+        <div class="chart-container">
+            <div class="chart-title">Interactive Price Scenario Simulator</div>
+            <div class="slider-grid">
+                <div class="slider-group">
+                    <label>Demand (MW)</label>
+                    <input type="range" id="sl-demand" min="1800" max="4000" value="2800" step="50" oninput="updateScenario()">
+                    <div class="slider-value" id="sv-demand">2800</div>
+                </div>
+                <div class="slider-group">
+                    <label>Temperature (°F)</label>
+                    <input type="range" id="sl-temp" min="0" max="110" value="55" step="5" oninput="updateScenario()">
+                    <div class="slider-value" id="sv-temp">55</div>
+                </div>
+                <div class="slider-group">
+                    <label>Wind Generation (MW)</label>
+                    <input type="range" id="sl-wind" min="0" max="800" value="350" step="25" oninput="updateScenario()">
+                    <div class="slider-value" id="sv-wind">350</div>
+                </div>
+                <div class="slider-group">
+                    <label>Solar Generation (MW)</label>
+                    <input type="range" id="sl-solar" min="0" max="600" value="200" step="25" oninput="updateScenario()">
+                    <div class="slider-value" id="sv-solar">200</div>
+                </div>
+                <div class="slider-group">
+                    <label>Natural Gas ($/MMBtu)</label>
+                    <input type="range" id="sl-gas" min="1" max="6" value="3" step="0.25" oninput="updateScenario()">
+                    <div class="slider-value" id="sv-gas">$3.00</div>
+                </div>
+            </div>
+            <div class="kpi-row" id="scenario-result"></div>
+        </div>
+    </div>
+
+    <!-- ============================================ -->
+    <!-- TAB 5: Q&A -->
+    <!-- ============================================ -->
+    <div id="tab-qa" class="tab-content">
+        <h2 style="color:var(--ts-dark)">AI Document Q&A Assistant</h2>
+        <p style="color:var(--gray); margin-bottom:0.75rem;">Ask questions about Tri-State's operations, NERC CIP compliance, energy strategy, or AI governance.</p>
+        <div class="provenance-bar">
+            📋 <strong>Data:</strong>
+            <span class="badge badge-real" title="NERC CIP standard descriptions are accurate">✓ NERC CIP standards</span>
+            <span class="badge badge-real" title="Tri-State facts from published reporting">✓ Public facts</span>
+            <span class="badge badge-sim" title="Curated knowledge base, not connected to internal documents">⚠ Knowledge base scope</span>
+            <br><span class="prod-note">Production: Vector database over internal documents, FERC filings, tariffs, and procedures</span>
+        </div>
+
+        <div class="qa-suggestions">
+            <span class="qa-suggestion" onclick="askQuestion(this.textContent)">What AI governance framework would you recommend?</span>
+            <span class="qa-suggestion" onclick="askQuestion(this.textContent)">Explain NERC CIP standards for AI deployment</span>
+            <span class="qa-suggestion" onclick="askQuestion(this.textContent)">How could AI help with member retention?</span>
+            <span class="qa-suggestion" onclick="askQuestion(this.textContent)">What drives wholesale energy prices?</span>
+        </div>
+
+        <div class="qa-input-row">
+            <input type="text" class="qa-input" id="qa-input" placeholder="Ask about Tri-State, NERC CIP, or AI governance..." onkeydown="if(event.key==='Enter')askQuestion()">
+            <button class="qa-btn" onclick="askQuestion()">Ask</button>
+        </div>
+
+        <div class="qa-messages" id="qa-messages"></div>
+    </div>
+
+</main>
+
+<script src="/static/js/dashboard.js"></script>
+</body>
+</html>

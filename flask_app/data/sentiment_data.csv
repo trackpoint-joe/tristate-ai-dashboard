@@ -1,0 +1,501 @@
+date,topic,source,headline,sentiment_score,relevance_score,is_real
+2024-01-01,Member Relations,E&E News,Tri-State Board Approves Revised Member Exit Provisions,-0.265,0.75,False
+2024-01-07,Energy Transition,Public Comment - FERC,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,-0.091,0.42,False
+2024-01-08,Coal Retirement,Albuquerque Journal,Workforce Transition Programs Launched for Affected Communities,0.142,0.72,False
+2024-01-11,Community Impact,Public Comment - FERC,Rural Broadband Initiative Leverages Cooperative Infrastructure,0.52,0.97,False
+2024-01-12,Member Relations,Public Comment - PUC,Tri-State Board Approves Revised Member Exit Provisions,-0.589,0.68,False
+2024-01-13,Renewable Energy,Albuquerque Journal,Distributed Solar Growth Creates Grid Management Challenges,0.461,0.91,False
+2024-01-16,Community Impact,Reuters Energy,Member Communities Benefit from Cooperative Dividend Distribution,0.737,0.5,False
+2024-01-17,Rate Changes,Public Comment - FERC,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.189,0.68,False
+2024-01-20,Rate Changes,Reuters Energy,Tri-State Rates Remain Competitive vs Regional Utilities,0.198,0.46,False
+2024-01-20,Community Impact,Social Media,Cooperative Model Delivers Value to Rural Western Communities,0.649,0.49,False
+2024-01-21,Community Impact,Denver Post,Tri-State Awards $2M in Community Development Grants,0.047,0.46,False
+2024-01-23,Coal Retirement,Reuters Energy,Coal Retirement Costs Create Long-term Financial Obligations,0.309,0.78,False
+2024-01-27,Regulatory Compliance,Utility Dive,Colorado Clean Energy Standards Tighten for Wholesale Providers,0.455,0.8,False
+2024-01-28,Coal Retirement,Public Comment - PUC,Workforce Transition Programs Launched for Affected Communities,-0.041,0.73,False
+2024-01-28,Member Relations,Albuquerque Journal,Kit Carson Electric Reports Savings After Partial Exit,0.09,0.93,False
+2024-01-29,Energy Transition,Reuters Energy,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.613,0.41,False
+2024-01-29,Energy Transition,Casper Star-Tribune,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.092,0.62,False
+2024-01-31,Regulatory Compliance,Reuters Energy,FERC Order Impacts Cooperative Wholesale Market Participation,0.5,0.44,False
+2024-02-02,Renewable Energy,Casper Star-Tribune,Distributed Solar Growth Creates Grid Management Challenges,0.128,0.98,False
+2024-02-03,Rate Changes,Public Comment - FERC,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-1.0,0.9,False
+2024-02-04,Grid Reliability,Public Comment - FERC,Tri-State Invests $150M in Transmission Upgrades,-0.03,0.6,False
+2024-02-05,Energy Transition,Denver Post,Tri-State Announces New Solar Project in Eastern Colorado,0.557,0.52,False
+2024-02-06,Regulatory Compliance,Reuters Energy,Tri-State Passes NERC CIP Compliance Audit,0.291,0.91,False
+2024-02-06,Member Relations,E&E News,Tri-State Board Approves Revised Member Exit Provisions,-0.204,0.69,False
+2024-02-07,Member Relations,E&E News,La Plata Electric Explores Partial Requirements Options,0.044,0.72,False
+2024-02-09,Renewable Energy,Denver Post,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.545,0.59,False
+2024-02-12,Member Relations,Colorado Sun,Tri-State Board Approves Revised Member Exit Provisions,-0.13,0.44,False
+2024-02-12,Grid Reliability,Utility Dive,Tri-State Deploys Advanced Fault Detection Technology,0.293,0.83,False
+2024-02-13,Coal Retirement,E&E News,Environmental Groups Praise Accelerated Coal Phase-out,0.115,0.46,False
+2024-02-15,Energy Transition,Utility Dive,Tri-State Signs 500MW Wind Power Purchase Agreement,-0.002,0.87,False
+2024-02-15,Member Relations,Public Comment - PUC,United Power Seeks Greater Flexibility in Tri-State Contract,-0.271,0.41,False
+2024-02-18,Energy Transition,Public Comment - FERC,Western Cooperatives Face Challenges in Energy Transition Timeline,0.029,0.68,False
+2024-02-18,Member Relations,Public Comment - PUC,Small Rural Co-ops Express Support for Tri-State Stability,-0.177,0.89,False
+2024-02-18,Rate Changes,E&E News,Tri-State Rates Remain Competitive vs Regional Utilities,-0.575,0.48,False
+2024-02-22,Rate Changes,Casper Star-Tribune,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.666,0.68,False
+2024-02-26,Grid Reliability,Casper Star-Tribune,Tri-State Grid Performance Exceeds NERC Standards,0.219,0.78,False
+2024-02-28,Coal Retirement,Social Media,Community Impact Plans Announced for Craig Station Workers,0.25,0.81,False
+2024-03-03,Community Impact,Denver Post,Tri-State Awards $2M in Community Development Grants,0.043,0.59,False
+2024-03-03,Rate Changes,Denver Post,Rate Restructuring Could Benefit Smaller Member Systems,-0.195,0.72,False
+2024-03-07,Renewable Energy,Social Media,Colorado Cooperative Renewable Portfolio Reaches 40%,-0.025,1.0,False
+2024-03-10,Regulatory Compliance,E&E News,FERC Order Impacts Cooperative Wholesale Market Participation,-0.227,0.62,False
+2024-03-15,Coal Retirement,Utility Dive,Craig Station Unit 3 Retirement Timeline Under Discussion,0.055,0.9,False
+2024-03-16,Renewable Energy,Utility Dive,Tri-State Wind Capacity Surpasses 1GW Milestone,0.447,0.97,False
+2024-03-16,Grid Reliability,Utility Dive,Wildfire Risk Drives Enhanced Vegetation Management Program,0.346,0.87,False
+2024-03-18,Member Relations,Public Comment - PUC,La Plata Electric Explores Partial Requirements Options,-0.071,0.45,False
+2024-03-18,Renewable Energy,Albuquerque Journal,Tri-State Wind Capacity Surpasses 1GW Milestone,0.293,0.8,False
+2024-03-18,Coal Retirement,Reuters Energy,Craig Station Unit 3 Retirement Timeline Under Discussion,0.015,0.97,False
+2024-03-22,Grid Reliability,Reuters Energy,Winter Storm Tests Western Grid Reliability,0.042,0.57,False
+2024-03-24,Coal Retirement,Casper Star-Tribune,Craig Station Unit 3 Retirement Timeline Under Discussion,0.127,0.98,False
+2024-03-25,Regulatory Compliance,Colorado Sun,Tri-State Enhances Cybersecurity Program for Grid Protection,0.224,0.42,False
+2024-03-26,Regulatory Compliance,E&E News,Tri-State Passes NERC CIP Compliance Audit,0.102,0.52,False
+2024-03-26,Member Relations,Colorado Sun,LPEA Board Votes to Leave Tri-State Generation and Transmission,-0.244,0.83,True
+2024-03-26,Member Relations,Public Comment - PUC,United Power Seeks Greater Flexibility in Tri-State Contract,-0.287,0.61,False
+2024-03-27,Rate Changes,Colorado Sun,Tri-State Rates Remain Competitive vs Regional Utilities,-0.466,0.76,False
+2024-03-27,Coal Retirement,Casper Star-Tribune,Community Impact Plans Announced for Craig Station Workers,-0.251,0.58,False
+2024-04-02,Rate Changes,Denver Post,Tri-State Rates Remain Competitive vs Regional Utilities,0.033,0.78,False
+2024-04-04,Regulatory Compliance,Colorado Sun,New EPA Rules Affect Remaining Coal Fleet Operations,-0.101,0.84,False
+2024-04-04,Rate Changes,Public Comment - FERC,Tri-State Rates Remain Competitive vs Regional Utilities,-0.378,0.94,False
+2024-04-05,Rate Changes,E&E News,Tri-State Rates Remain Competitive vs Regional Utilities,-0.154,0.66,False
+2024-04-06,Rate Changes,Casper Star-Tribune,Wholesale Rate Stability Critical for Rural Communities,-0.434,0.62,False
+2024-04-08,Rate Changes,Reuters Energy,Rate Restructuring Could Benefit Smaller Member Systems,-0.505,0.45,False
+2024-04-08,Renewable Energy,Albuquerque Journal,Colorado Cooperative Renewable Portfolio Reaches 40%,0.616,0.53,False
+2024-04-08,Renewable Energy,Utility Dive,Colorado Cooperative Renewable Portfolio Reaches 40%,0.247,0.74,False
+2024-04-09,Rate Changes,Colorado Sun,"Agencies downgrade Tri-State bonds, adding to rural power cooperative's ongoing pressures",-0.127,0.79,True
+2024-04-10,Rate Changes,Denver Post,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.04,0.72,False
+2024-04-11,Energy Transition,Casper Star-Tribune,Tri-State Signs 500MW Wind Power Purchase Agreement,0.467,0.7,False
+2024-04-11,Community Impact,Reuters Energy,Cooperative Model Delivers Value to Rural Western Communities,0.808,0.81,False
+2024-04-16,Energy Transition,Social Media,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,0.289,0.61,False
+2024-04-18,Renewable Energy,Denver Post,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.437,0.83,False
+2024-04-21,Member Relations,Social Media,La Plata Electric Explores Partial Requirements Options,-0.214,0.92,False
+2024-04-24,Member Relations,Albuquerque Journal,La Plata Electric Explores Partial Requirements Options,0.038,0.93,False
+2024-04-27,Coal Retirement,Public Comment - FERC,Environmental Groups Praise Accelerated Coal Phase-out,0.158,0.57,False
+2024-04-27,Grid Reliability,Albuquerque Journal,Wildfire Risk Drives Enhanced Vegetation Management Program,0.183,0.88,False
+2024-04-27,Coal Retirement,Albuquerque Journal,Craig Station Unit 3 Retirement Timeline Under Discussion,-0.24,0.84,False
+2024-04-27,Member Relations,Public Comment - FERC,Kit Carson Electric Reports Savings After Partial Exit,-0.164,0.8,False
+2024-04-29,Member Relations,Denver Post,La Plata Electric Explores Partial Requirements Options,-0.6,0.9,False
+2024-04-30,Member Relations,Colorado Sun,"Colorado's two largest energy co-ops break from Xcel, Tri-State aiming for more local control and lower costs",-0.202,0.71,True
+2024-05-01,Energy Transition,Social Media,Tri-State Announces New Solar Project in Eastern Colorado,-0.145,0.59,False
+2024-05-01,Grid Reliability,Reuters Energy,Tri-State Invests $150M in Transmission Upgrades,0.326,0.78,False
+2024-05-03,Community Impact,Reuters Energy,Cooperative Model Delivers Value to Rural Western Communities,0.482,0.58,False
+2024-05-04,Grid Reliability,Social Media,Tri-State Deploys Advanced Fault Detection Technology,0.116,0.55,False
+2024-05-06,Renewable Energy,Social Media,Distributed Solar Growth Creates Grid Management Challenges,0.466,0.45,False
+2024-05-06,Energy Transition,Social Media,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,0.548,0.96,False
+2024-05-07,Rate Changes,Public Comment - FERC,FERC Reviews Tri-State Rate Filing Amid Member Concerns,0.082,0.85,False
+2024-05-07,Rate Changes,Social Media,Wholesale Rate Stability Critical for Rural Communities,-0.092,0.46,False
+2024-05-09,Member Relations,Albuquerque Journal,La Plata Electric Explores Partial Requirements Options,0.071,0.48,False
+2024-05-10,Renewable Energy,Public Comment - PUC,Tri-State Wind Capacity Surpasses 1GW Milestone,0.149,0.91,False
+2024-05-14,Regulatory Compliance,Colorado Sun,Tri-State Passes NERC CIP Compliance Audit,0.006,0.6,False
+2024-05-16,Member Relations,Casper Star-Tribune,Tri-State Introduces New Contract Flexibility Framework,-0.154,0.43,False
+2024-05-17,Regulatory Compliance,Social Media,Tri-State Passes NERC CIP Compliance Audit,-0.02,0.99,False
+2024-05-19,Energy Transition,Social Media,Tri-State Signs 500MW Wind Power Purchase Agreement,0.31,0.49,False
+2024-05-22,Member Relations,Reuters Energy,Member Cooperatives Push for More Local Generation Rights,-0.466,0.46,False
+2024-05-25,Renewable Energy,Social Media,Tri-State Wind Capacity Surpasses 1GW Milestone,0.16,0.64,False
+2024-05-25,Member Relations,Public Comment - PUC,United Power Seeks Greater Flexibility in Tri-State Contract,-0.261,0.47,False
+2024-06-01,Energy Transition,Colorado Sun,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,0.442,0.82,False
+2024-06-02,Energy Transition,E&E News,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,-0.258,0.69,False
+2024-06-05,Grid Reliability,Denver Post,Tri-State Invests $150M in Transmission Upgrades,0.355,0.99,False
+2024-06-07,Coal Retirement,Public Comment - FERC,Craig Station Unit 3 Retirement Timeline Under Discussion,-0.448,0.98,False
+2024-06-08,Renewable Energy,Colorado Sun,Tri-State Wind Capacity Surpasses 1GW Milestone,0.66,0.54,False
+2024-06-08,Rate Changes,Public Comment - FERC,Rate Restructuring Could Benefit Smaller Member Systems,0.012,0.72,False
+2024-06-08,Community Impact,Public Comment - FERC,Tri-State Foundation Supports Workforce Development Programs,0.847,0.67,False
+2024-06-09,Rate Changes,Albuquerque Journal,Tri-State Rates Remain Competitive vs Regional Utilities,-0.337,0.65,False
+2024-06-10,Member Relations,Denver Post,United Power Seeks Greater Flexibility in Tri-State Contract,-0.074,0.68,False
+2024-06-10,Rate Changes,Public Comment - PUC,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.406,0.93,False
+2024-06-13,Community Impact,Colorado Sun,Member Communities Benefit from Cooperative Dividend Distribution,0.589,0.79,False
+2024-06-20,Regulatory Compliance,Reuters Energy,Colorado Clean Energy Standards Tighten for Wholesale Providers,-0.409,0.76,False
+2024-06-25,Grid Reliability,Utility Dive,Winter Storm Tests Western Grid Reliability,0.236,0.41,False
+2024-07-01,Energy Transition,Public Comment - FERC,Western Cooperatives Face Challenges in Energy Transition Timeline,-0.391,0.5,False
+2024-07-01,Regulatory Compliance,Casper Star-Tribune,Colorado Clean Energy Standards Tighten for Wholesale Providers,0.117,0.48,False
+2024-07-02,Member Relations,Social Media,Member Cooperatives Push for More Local Generation Rights,-0.427,0.85,False
+2024-07-04,Regulatory Compliance,Casper Star-Tribune,New EPA Rules Affect Remaining Coal Fleet Operations,0.362,0.54,False
+2024-07-05,Community Impact,E&E News,Cooperative Model Delivers Value to Rural Western Communities,0.229,0.75,False
+2024-07-06,Energy Transition,Social Media,Energy Transition Costs Raise Concerns Among Rural Cooperatives,-0.125,0.92,False
+2024-07-08,Coal Retirement,Casper Star-Tribune,Coal Retirement Costs Create Long-term Financial Obligations,0.012,0.51,False
+2024-07-09,Coal Retirement,Reuters Energy,Environmental Groups Praise Accelerated Coal Phase-out,-0.143,0.85,False
+2024-07-09,Energy Transition,Public Comment - PUC,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.635,0.64,False
+2024-07-10,Coal Retirement,Denver Post,Coal Retirement Costs Create Long-term Financial Obligations,-0.443,0.96,False
+2024-07-10,Coal Retirement,Utility Dive,Craig Station Unit 3 Retirement Timeline Under Discussion,-0.502,0.77,False
+2024-07-13,Renewable Energy,Colorado Sun,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.085,0.52,False
+2024-07-14,Energy Transition,Albuquerque Journal,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,0.197,0.97,False
+2024-07-14,Renewable Energy,Social Media,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.53,0.93,False
+2024-07-19,Grid Reliability,Albuquerque Journal,Tri-State Grid Performance Exceeds NERC Standards,0.058,0.69,False
+2024-07-22,Grid Reliability,Public Comment - FERC,Tri-State Grid Performance Exceeds NERC Standards,0.365,0.53,False
+2024-07-24,Coal Retirement,Albuquerque Journal,Environmental Groups Praise Accelerated Coal Phase-out,0.443,0.41,False
+2024-07-28,Regulatory Compliance,Albuquerque Journal,Colorado Clean Energy Standards Tighten for Wholesale Providers,0.291,0.48,False
+2024-07-31,Coal Retirement,Colorado Sun,Community Impact Plans Announced for Craig Station Workers,0.025,0.49,False
+2024-07-31,Coal Retirement,Albuquerque Journal,Coal Retirement Costs Create Long-term Financial Obligations,0.356,0.55,False
+2024-08-02,Rate Changes,Public Comment - FERC,Cooperative Members Question Rising Wholesale Power Costs,-0.362,0.77,False
+2024-08-04,Coal Retirement,Public Comment - PUC,Community Impact Plans Announced for Craig Station Workers,-0.103,0.69,False
+2024-08-07,Energy Transition,Utility Dive,Clean Energy Shift Creates Job Transition Questions for Tri-State Workers,0.134,0.92,False
+2024-08-13,Regulatory Compliance,Casper Star-Tribune,Tri-State Enhances Cybersecurity Program for Grid Protection,0.304,0.98,False
+2024-08-14,Renewable Energy,Colorado Sun,Tri-State Generation going big into renewable energy,0.425,0.92,True
+2024-08-16,Energy Transition,Denver Post,Tri-State Announces New Solar Project in Eastern Colorado,0.062,0.55,False
+2024-08-16,Member Relations,Casper Star-Tribune,Member Cooperatives Push for More Local Generation Rights,-0.375,1.0,False
+2024-08-19,Rate Changes,Reuters Energy,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.352,0.63,False
+2024-08-20,Renewable Energy,Albuquerque Journal,Distributed Solar Growth Creates Grid Management Challenges,-0.178,0.75,False
+2024-08-20,Rate Changes,E&E News,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.472,0.61,False
+2024-08-21,Rate Changes,Utility Dive,Cooperative Members Question Rising Wholesale Power Costs,-0.26,0.48,False
+2024-08-24,Rate Changes,Public Comment - PUC,Wholesale Rate Stability Critical for Rural Communities,-0.5,0.48,False
+2024-08-29,Member Relations,Colorado Sun,United Power Seeks Greater Flexibility in Tri-State Contract,-0.487,0.45,False
+2024-08-30,Energy Transition,E&E News,Tri-State Announces New Solar Project in Eastern Colorado,0.349,0.4,False
+2024-09-02,Grid Reliability,E&E News,Winter Storm Tests Western Grid Reliability,0.206,0.81,False
+2024-09-03,Coal Retirement,Public Comment - FERC,Community Impact Plans Announced for Craig Station Workers,0.32,0.55,False
+2024-09-04,Energy Transition,Reuters Energy,Tri-State Signs 500MW Wind Power Purchase Agreement,-0.048,0.91,False
+2024-09-06,Coal Retirement,Public Comment - PUC,Community Impact Plans Announced for Craig Station Workers,-0.144,0.8,False
+2024-09-09,Grid Reliability,Public Comment - FERC,Winter Storm Tests Western Grid Reliability,0.472,0.49,False
+2024-09-10,Energy Transition,Casper Star-Tribune,Clean Energy Shift Creates Job Transition Questions for Tri-State Workers,-0.192,0.82,False
+2024-09-12,Renewable Energy,Public Comment - PUC,Distributed Solar Growth Creates Grid Management Challenges,0.782,0.46,False
+2024-09-12,Renewable Energy,Public Comment - PUC,Battery Storage Integration Advances at Tri-State Facilities,0.042,0.65,False
+2024-09-15,Energy Transition,Colorado Sun,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,-0.265,0.73,False
+2024-09-15,Grid Reliability,Utility Dive,"Detractors take note: Tri-State is meeting its reliability, affordability and clean energy obligations",0.051,0.99,True
+2024-09-16,Energy Transition,Reuters Energy,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,0.175,0.4,False
+2024-09-17,Renewable Energy,Albuquerque Journal,Tri-State Wind Capacity Surpasses 1GW Milestone,0.105,0.86,False
+2024-09-22,Renewable Energy,Casper Star-Tribune,Distributed Solar Growth Creates Grid Management Challenges,0.463,0.84,False
+2024-09-24,Member Relations,Denver Post,Small Rural Co-ops Express Support for Tri-State Stability,-0.337,0.47,False
+2024-09-24,Member Relations,Social Media,United Power Seeks Greater Flexibility in Tri-State Contract,-0.093,0.51,False
+2024-09-28,Renewable Energy,E&E News,Distributed Solar Growth Creates Grid Management Challenges,0.054,0.47,False
+2024-10-01,Member Relations,Denver Post,Tri-State Board Approves Revised Member Exit Provisions,0.032,0.87,False
+2024-10-03,Renewable Energy,Denver Post,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.349,0.74,False
+2024-10-05,Rate Changes,Denver Post,Wholesale Rate Stability Critical for Rural Communities,-0.285,0.73,False
+2024-10-11,Energy Transition,E&E News,Clean Energy Shift Creates Job Transition Questions for Tri-State Workers,0.207,0.42,False
+2024-10-14,Coal Retirement,Reuters Energy,Tri-State Plans Managed Coal Plant Transition Through 2030,0.391,0.55,False
+2024-10-14,Coal Retirement,Social Media,Craig Station Unit 3 Retirement Timeline Under Discussion,-0.057,0.96,False
+2024-10-15,Regulatory Compliance,Denver Post,New EPA Rules Affect Remaining Coal Fleet Operations,0.169,0.59,False
+2024-10-17,Rate Changes,Albuquerque Journal,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.767,0.71,False
+2024-10-20,Rate Changes,Albuquerque Journal,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.103,0.45,False
+2024-10-20,Grid Reliability,Utility Dive,Tri-State Grid Performance Exceeds NERC Standards,0.71,0.57,False
+2024-10-21,Coal Retirement,Casper Star-Tribune,Environmental Groups Praise Accelerated Coal Phase-out,0.213,0.7,False
+2024-10-29,Energy Transition,Colorado Sun,"Tri-State won $2.5 billion to close coal plants, get new renewable energy for rural customers",0.129,0.88,True
+2024-10-29,Member Relations,Social Media,Tri-State Introduces New Contract Flexibility Framework,-0.68,0.67,False
+2024-11-01,Regulatory Compliance,Utility Dive,Tri-State Enhances Cybersecurity Program for Grid Protection,-0.017,0.74,False
+2024-11-02,Energy Transition,Utility Dive,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,-0.178,0.73,False
+2024-11-05,Community Impact,Colorado Sun,Funding from New ERA program to Colorado's Tri-State energy is giving hope to our rural communities,0.415,0.72,True
+2024-11-08,Energy Transition,Public Comment - PUC,Western Cooperatives Face Challenges in Energy Transition Timeline,0.363,0.95,False
+2024-11-08,Energy Transition,Albuquerque Journal,Tri-State Announces New Solar Project in Eastern Colorado,0.07,0.91,False
+2024-11-09,Energy Transition,Denver Post,Tri-State Signs 500MW Wind Power Purchase Agreement,-0.212,0.49,False
+2024-11-12,Coal Retirement,Utility Dive,Craig Station Unit 3 Retirement Timeline Under Discussion,0.403,0.92,False
+2024-11-15,Rate Changes,Utility Dive,Cooperative Members Question Rising Wholesale Power Costs,-0.054,0.87,False
+2024-11-24,Regulatory Compliance,E&E News,FERC Order Impacts Cooperative Wholesale Market Participation,-0.511,0.56,False
+2024-11-25,Community Impact,Public Comment - FERC,Tri-State Foundation Supports Workforce Development Programs,0.373,0.5,False
+2024-11-29,Energy Transition,E&E News,Tri-State Announces New Solar Project in Eastern Colorado,0.187,0.53,False
+2024-11-29,Renewable Energy,E&E News,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.323,0.46,False
+2024-11-30,Regulatory Compliance,Utility Dive,FERC Order Impacts Cooperative Wholesale Market Participation,-0.043,1.0,False
+2024-12-02,Member Relations,Public Comment - FERC,United Power Seeks Greater Flexibility in Tri-State Contract,-0.236,0.99,False
+2024-12-03,Renewable Energy,Public Comment - FERC,Battery Storage Integration Advances at Tri-State Facilities,0.374,0.57,False
+2024-12-09,Rate Changes,Denver Post,Rate Restructuring Could Benefit Smaller Member Systems,-0.42,0.44,False
+2024-12-09,Rate Changes,Public Comment - FERC,Cooperative Members Question Rising Wholesale Power Costs,-0.091,0.87,False
+2024-12-11,Energy Transition,E&E News,Tri-State Signs 500MW Wind Power Purchase Agreement,-0.348,0.9,False
+2024-12-13,Community Impact,Denver Post,Tri-State Awards $2M in Community Development Grants,0.364,0.98,False
+2024-12-14,Regulatory Compliance,Casper Star-Tribune,FERC Order Impacts Cooperative Wholesale Market Participation,0.347,0.73,False
+2024-12-14,Energy Transition,Public Comment - PUC,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.238,0.52,False
+2024-12-15,Renewable Energy,Reuters Energy,Tri-State Wind Capacity Surpasses 1GW Milestone,0.023,0.85,False
+2024-12-15,Energy Transition,Reuters Energy,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,0.028,0.45,False
+2024-12-15,Energy Transition,Denver Post,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,0.451,0.92,False
+2024-12-19,Energy Transition,Reuters Energy,Clean Energy Shift Creates Job Transition Questions for Tri-State Workers,0.14,0.73,False
+2024-12-22,Rate Changes,Social Media,Wholesale Rate Stability Critical for Rural Communities,0.024,0.78,False
+2024-12-26,Rate Changes,Albuquerque Journal,Cooperative Members Question Rising Wholesale Power Costs,-0.414,0.97,False
+2024-12-29,Energy Transition,Social Media,Tri-State Signs 500MW Wind Power Purchase Agreement,0.393,0.88,False
+2024-12-30,Grid Reliability,Utility Dive,Tri-State Grid Performance Exceeds NERC Standards,0.029,0.86,False
+2024-12-30,Renewable Energy,Public Comment - FERC,Colorado Cooperative Renewable Portfolio Reaches 40%,0.146,0.66,False
+2024-12-31,Energy Transition,Public Comment - PUC,Tri-State Announces New Solar Project in Eastern Colorado,0.292,0.84,False
+2025-01-06,Regulatory Compliance,Utility Dive,Colorado Clean Energy Standards Tighten for Wholesale Providers,0.199,0.86,False
+2025-01-07,Member Relations,Casper Star-Tribune,La Plata Electric Explores Partial Requirements Options,0.179,0.56,False
+2025-01-08,Grid Reliability,Denver Post,Tri-State Grid Performance Exceeds NERC Standards,0.297,0.76,False
+2025-01-08,Coal Retirement,Public Comment - FERC,Craig Station Unit 3 Retirement Timeline Under Discussion,0.105,0.94,False
+2025-01-09,Energy Transition,E&E News,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,-0.11,0.84,False
+2025-01-11,Rate Changes,Public Comment - PUC,Rate Restructuring Could Benefit Smaller Member Systems,-0.066,0.93,False
+2025-01-12,Rate Changes,Colorado Sun,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.111,0.88,False
+2025-01-12,Coal Retirement,E&E News,Tri-State Plans Managed Coal Plant Transition Through 2030,-0.051,0.48,False
+2025-01-13,Energy Transition,Reuters Energy,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,-0.077,0.47,False
+2025-01-14,Member Relations,Albuquerque Journal,Member Cooperatives Push for More Local Generation Rights,-0.838,0.48,False
+2025-01-15,Rate Changes,Denver Post,Wholesale Rate Stability Critical for Rural Communities,0.034,0.55,False
+2025-01-15,Rate Changes,Social Media,Tri-State Rates Remain Competitive vs Regional Utilities,-0.265,0.95,False
+2025-01-15,Grid Reliability,Albuquerque Journal,Tri-State Deploys Advanced Fault Detection Technology,0.475,0.93,False
+2025-01-15,Rate Changes,Public Comment - FERC,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.434,0.8,False
+2025-01-15,Coal Retirement,Social Media,Workforce Transition Programs Launched for Affected Communities,-0.475,0.65,False
+2025-01-17,Member Relations,Reuters Energy,Member Cooperatives Push for More Local Generation Rights,0.04,0.48,False
+2025-01-17,Energy Transition,Albuquerque Journal,Tri-State Announces New Solar Project in Eastern Colorado,0.488,0.69,False
+2025-01-18,Coal Retirement,Utility Dive,Community Impact Plans Announced for Craig Station Workers,0.003,0.61,False
+2025-01-20,Rate Changes,Colorado Sun,Cooperative Members Question Rising Wholesale Power Costs,-0.83,0.67,False
+2025-01-20,Coal Retirement,Public Comment - FERC,Community Impact Plans Announced for Craig Station Workers,-0.245,0.83,False
+2025-01-20,Rate Changes,Reuters Energy,Tri-State Rates Remain Competitive vs Regional Utilities,-0.369,0.86,False
+2025-01-21,Member Relations,Social Media,Member Cooperatives Push for More Local Generation Rights,0.215,0.83,False
+2025-01-25,Regulatory Compliance,Social Media,Tri-State Enhances Cybersecurity Program for Grid Protection,0.081,0.52,False
+2025-01-26,Coal Retirement,Casper Star-Tribune,Craig Station Unit 3 Retirement Timeline Under Discussion,0.056,0.55,False
+2025-01-27,Coal Retirement,Denver Post,Tri-State Plans Managed Coal Plant Transition Through 2030,-0.079,0.54,False
+2025-01-30,Regulatory Compliance,Public Comment - FERC,FERC Order Impacts Cooperative Wholesale Market Participation,-0.001,0.92,False
+2025-01-31,Renewable Energy,Social Media,Tri-State Wind Capacity Surpasses 1GW Milestone,0.371,0.96,False
+2025-02-01,Member Relations,E&E News,Tri-State Board Approves Revised Member Exit Provisions,-0.23,0.43,False
+2025-02-03,Energy Transition,Casper Star-Tribune,Clean Energy Shift Creates Job Transition Questions for Tri-State Workers,0.274,0.42,False
+2025-02-03,Grid Reliability,Social Media,Tri-State Invests $150M in Transmission Upgrades,0.012,0.87,False
+2025-02-06,Grid Reliability,Colorado Sun,New SCADA Systems Improve Real-time Grid Monitoring,0.191,0.73,False
+2025-02-07,Regulatory Compliance,Public Comment - FERC,Tri-State Passes NERC CIP Compliance Audit,-0.216,0.79,False
+2025-02-08,Energy Transition,Albuquerque Journal,Tri-State Announces New Solar Project in Eastern Colorado,0.514,0.88,False
+2025-02-09,Energy Transition,Reuters Energy,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,0.185,0.77,False
+2025-02-10,Renewable Energy,Albuquerque Journal,New Pumped Hydro Study Shows Promise for Tri-State Territory,-0.147,0.45,False
+2025-02-14,Coal Retirement,Casper Star-Tribune,Coal Retirement Costs Create Long-term Financial Obligations,-0.458,0.61,False
+2025-02-15,Renewable Energy,Denver Post,Tri-State Commissions 200MW Solar Farm in New Mexico,-0.069,0.85,False
+2025-02-17,Regulatory Compliance,Casper Star-Tribune,Tri-State Passes NERC CIP Compliance Audit,0.294,0.79,False
+2025-02-20,Renewable Energy,Reuters Energy,Colorado Cooperative Renewable Portfolio Reaches 40%,-0.184,0.75,False
+2025-02-23,Rate Changes,Public Comment - PUC,Tri-State Rates Remain Competitive vs Regional Utilities,0.113,0.51,False
+2025-02-23,Community Impact,Public Comment - PUC,Tri-State Awards $2M in Community Development Grants,0.693,0.49,False
+2025-02-25,Renewable Energy,Colorado Sun,Distributed Solar Growth Creates Grid Management Challenges,0.569,0.76,False
+2025-02-26,Renewable Energy,E&E News,Battery Storage Integration Advances at Tri-State Facilities,0.101,0.73,False
+2025-03-02,Energy Transition,Reuters Energy,Western Cooperatives Face Challenges in Energy Transition Timeline,0.087,0.96,False
+2025-03-02,Coal Retirement,Colorado Sun,Tri-State Plans Managed Coal Plant Transition Through 2030,-0.355,0.77,False
+2025-03-03,Renewable Energy,Reuters Energy,Distributed Solar Growth Creates Grid Management Challenges,0.627,0.52,False
+2025-03-04,Rate Changes,Public Comment - FERC,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.183,0.87,False
+2025-03-07,Energy Transition,Casper Star-Tribune,Western Cooperatives Face Challenges in Energy Transition Timeline,-0.033,0.9,False
+2025-03-10,Coal Retirement,Utility Dive,Coal Retirement Costs Create Long-term Financial Obligations,-0.045,0.88,False
+2025-03-12,Energy Transition,Utility Dive,Tri-State Signs 500MW Wind Power Purchase Agreement,-0.013,0.51,False
+2025-03-15,Rate Changes,E&E News,Rate Restructuring Could Benefit Smaller Member Systems,-0.557,0.56,False
+2025-03-16,Coal Retirement,Public Comment - FERC,Tri-State Plans Managed Coal Plant Transition Through 2030,0.183,0.51,False
+2025-03-18,Renewable Energy,Public Comment - FERC,Distributed Solar Growth Creates Grid Management Challenges,-0.194,0.6,False
+2025-03-19,Rate Changes,Casper Star-Tribune,Cooperative Members Question Rising Wholesale Power Costs,-0.358,0.63,False
+2025-03-20,Energy Transition,Colorado Sun,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.117,0.54,False
+2025-03-20,Regulatory Compliance,Public Comment - PUC,Tri-State Enhances Cybersecurity Program for Grid Protection,0.528,0.67,False
+2025-03-22,Coal Retirement,Colorado Sun,Coal Retirement Costs Create Long-term Financial Obligations,-0.378,0.74,False
+2025-03-24,Grid Reliability,Public Comment - FERC,New SCADA Systems Improve Real-time Grid Monitoring,0.176,0.98,False
+2025-03-24,Rate Changes,Public Comment - FERC,Rate Restructuring Could Benefit Smaller Member Systems,-0.283,0.42,False
+2025-03-26,Grid Reliability,Public Comment - FERC,Tri-State Deploys Advanced Fault Detection Technology,0.409,0.56,False
+2025-03-27,Energy Transition,Utility Dive,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,0.26,0.62,False
+2025-03-30,Renewable Energy,Denver Post,Battery Storage Integration Advances at Tri-State Facilities,0.743,0.64,False
+2025-04-01,Renewable Energy,Casper Star-Tribune,Tri-State Commissions 200MW Solar Farm in New Mexico,0.196,0.55,False
+2025-04-04,Grid Reliability,Colorado Sun,Wildfire Risk Drives Enhanced Vegetation Management Program,0.054,0.45,False
+2025-04-04,Energy Transition,Albuquerque Journal,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.162,0.95,False
+2025-04-07,Member Relations,Denver Post,Member Cooperatives Push for More Local Generation Rights,0.132,0.79,False
+2025-04-07,Community Impact,Casper Star-Tribune,Tri-State Awards $2M in Community Development Grants,0.297,0.82,False
+2025-04-11,Member Relations,Denver Post,United Power Seeks Greater Flexibility in Tri-State Contract,-0.255,0.52,False
+2025-04-13,Renewable Energy,Denver Post,Tri-State Wind Capacity Surpasses 1GW Milestone,0.919,0.92,False
+2025-04-13,Rate Changes,Reuters Energy,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.168,0.65,False
+2025-04-15,Rate Changes,Public Comment - FERC,Wholesale Rate Stability Critical for Rural Communities,-0.582,0.74,False
+2025-04-19,Rate Changes,Denver Post,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.009,0.62,False
+2025-04-20,Grid Reliability,Public Comment - PUC,Tri-State Invests $150M in Transmission Upgrades,0.178,0.81,False
+2025-04-20,Grid Reliability,E&E News,Wildfire Risk Drives Enhanced Vegetation Management Program,-0.11,0.59,False
+2025-04-21,Rate Changes,Public Comment - FERC,Cooperative Members Question Rising Wholesale Power Costs,-0.781,0.44,False
+2025-04-21,Energy Transition,Public Comment - PUC,Tri-State Announces New Solar Project in Eastern Colorado,-0.27,0.84,False
+2025-04-21,Member Relations,Utility Dive,Tri-State Introduces New Contract Flexibility Framework,-0.048,0.74,False
+2025-04-27,Rate Changes,Public Comment - PUC,Rate Restructuring Could Benefit Smaller Member Systems,-0.402,0.42,False
+2025-04-27,Energy Transition,Colorado Sun,Western Cooperatives Face Challenges in Energy Transition Timeline,-0.306,0.52,False
+2025-04-29,Community Impact,E&E News,Tri-State Awards $2M in Community Development Grants,0.331,0.7,False
+2025-05-03,Renewable Energy,Colorado Sun,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.51,0.66,False
+2025-05-04,Energy Transition,Utility Dive,Clean Energy Shift Creates Job Transition Questions for Tri-State Workers,0.244,0.54,False
+2025-05-04,Regulatory Compliance,Denver Post,Tri-State Passes NERC CIP Compliance Audit,0.155,0.73,False
+2025-05-05,Member Relations,E&E News,Kit Carson Electric Reports Savings After Partial Exit,-0.499,0.61,False
+2025-05-05,Rate Changes,E&E News,Wholesale Rate Stability Critical for Rural Communities,-0.449,0.71,False
+2025-05-11,Member Relations,Reuters Energy,La Plata Electric Explores Partial Requirements Options,-0.39,1.0,False
+2025-05-12,Rate Changes,Colorado Sun,Wholesale Rate Stability Critical for Rural Communities,-0.267,0.71,False
+2025-05-14,Member Relations,Reuters Energy,United Power Seeks Greater Flexibility in Tri-State Contract,-0.636,0.82,False
+2025-05-18,Coal Retirement,Reuters Energy,Community Impact Plans Announced for Craig Station Workers,-0.146,0.79,False
+2025-05-19,Renewable Energy,Social Media,Battery Storage Integration Advances at Tri-State Facilities,0.478,0.75,False
+2025-05-21,Rate Changes,Public Comment - PUC,Wholesale Rate Stability Critical for Rural Communities,-0.038,0.95,False
+2025-05-21,Renewable Energy,Colorado Sun,Tri-State Commissions 200MW Solar Farm in New Mexico,0.262,0.45,False
+2025-05-23,Community Impact,Colorado Sun,Tri-State Awards $2M in Community Development Grants,0.403,0.84,False
+2025-05-28,Regulatory Compliance,E&E News,Tri-State Enhances Cybersecurity Program for Grid Protection,-0.263,0.6,False
+2025-05-29,Community Impact,Public Comment - FERC,Cooperative Model Delivers Value to Rural Western Communities,0.512,0.64,False
+2025-05-30,Renewable Energy,Reuters Energy,Battery Storage Integration Advances at Tri-State Facilities,0.539,0.42,False
+2025-05-31,Energy Transition,E&E News,Tri-State Signs 500MW Wind Power Purchase Agreement,0.67,0.76,False
+2025-06-02,Energy Transition,Colorado Sun,Western Cooperatives Face Challenges in Energy Transition Timeline,-0.133,0.98,False
+2025-06-03,Grid Reliability,Colorado Sun,New SCADA Systems Improve Real-time Grid Monitoring,0.378,0.98,False
+2025-06-03,Energy Transition,Denver Post,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.51,0.73,False
+2025-06-04,Member Relations,Public Comment - PUC,Tri-State Board Approves Revised Member Exit Provisions,-0.427,0.55,False
+2025-06-04,Coal Retirement,Public Comment - FERC,Tri-State Plans Managed Coal Plant Transition Through 2030,-0.04,0.62,False
+2025-06-08,Coal Retirement,Casper Star-Tribune,Craig Station Unit 3 Retirement Timeline Under Discussion,0.108,0.7,False
+2025-06-08,Energy Transition,Reuters Energy,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,-0.146,0.44,False
+2025-06-09,Energy Transition,Utility Dive,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.143,0.69,False
+2025-06-09,Energy Transition,E&E News,Western Cooperatives Face Challenges in Energy Transition Timeline,0.23,0.5,False
+2025-06-10,Grid Reliability,Albuquerque Journal,Wildfire Risk Drives Enhanced Vegetation Management Program,0.026,0.8,False
+2025-06-14,Energy Transition,Casper Star-Tribune,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.145,0.43,False
+2025-06-16,Member Relations,Casper Star-Tribune,United Power Seeks Greater Flexibility in Tri-State Contract,-0.51,0.86,False
+2025-06-20,Member Relations,Albuquerque Journal,La Plata Electric Explores Partial Requirements Options,-0.247,0.57,False
+2025-06-21,Energy Transition,Colorado Sun,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.036,0.97,False
+2025-06-22,Community Impact,Public Comment - PUC,Tri-State Awards $2M in Community Development Grants,0.88,0.45,False
+2025-06-24,Regulatory Compliance,Public Comment - PUC,FERC Order Impacts Cooperative Wholesale Market Participation,-0.17,0.92,False
+2025-06-25,Renewable Energy,Casper Star-Tribune,Tri-State Commissions 200MW Solar Farm in New Mexico,-0.193,0.97,False
+2025-06-25,Member Relations,Casper Star-Tribune,Kit Carson Electric Reports Savings After Partial Exit,0.103,0.71,False
+2025-07-01,Energy Transition,Public Comment - FERC,Tri-State Announces New Solar Project in Eastern Colorado,-0.089,0.87,False
+2025-07-01,Community Impact,Public Comment - PUC,Rural Broadband Initiative Leverages Cooperative Infrastructure,0.422,0.85,False
+2025-07-02,Energy Transition,Public Comment - FERC,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.061,0.89,False
+2025-07-07,Energy Transition,Denver Post,Tri-State Announces New Solar Project in Eastern Colorado,-0.041,0.84,False
+2025-07-07,Rate Changes,Reuters Energy,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.108,0.56,False
+2025-07-07,Grid Reliability,Casper Star-Tribune,Winter Storm Tests Western Grid Reliability,0.375,0.43,False
+2025-07-09,Rate Changes,Utility Dive,Tri-State Rates Remain Competitive vs Regional Utilities,0.269,0.72,False
+2025-07-09,Energy Transition,Albuquerque Journal,Western Cooperatives Face Challenges in Energy Transition Timeline,0.175,0.65,False
+2025-07-09,Community Impact,E&E News,Member Communities Benefit from Cooperative Dividend Distribution,0.564,1.0,False
+2025-07-11,Rate Changes,Albuquerque Journal,Rate Restructuring Could Benefit Smaller Member Systems,-0.793,0.99,False
+2025-07-11,Energy Transition,Public Comment - FERC,Tri-State Announces New Solar Project in Eastern Colorado,0.295,0.8,False
+2025-07-11,Rate Changes,Reuters Energy,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.314,0.76,False
+2025-07-12,Member Relations,Public Comment - FERC,La Plata Electric Explores Partial Requirements Options,-0.079,0.88,False
+2025-07-15,Energy Transition,Colorado Sun,"Tri-State joining a regional transmission organization sounds wonky to Coloradans, but it's a big power move",0.115,0.96,True
+2025-07-18,Grid Reliability,Public Comment - PUC,Wildfire Risk Drives Enhanced Vegetation Management Program,0.331,0.82,False
+2025-07-19,Renewable Energy,Reuters Energy,Tri-State Commissions 200MW Solar Farm in New Mexico,0.108,0.95,False
+2025-07-22,Rate Changes,Public Comment - FERC,Cooperative Members Question Rising Wholesale Power Costs,-0.046,0.8,False
+2025-07-25,Member Relations,Denver Post,Kit Carson Electric Reports Savings After Partial Exit,-0.508,0.94,False
+2025-07-28,Regulatory Compliance,E&E News,New EPA Rules Affect Remaining Coal Fleet Operations,0.291,0.98,False
+2025-07-28,Member Relations,Casper Star-Tribune,Tri-State Board Approves Revised Member Exit Provisions,-0.186,0.47,False
+2025-08-04,Renewable Energy,Social Media,Tri-State Wind Capacity Surpasses 1GW Milestone,0.357,0.57,False
+2025-08-07,Energy Transition,Public Comment - PUC,Western Cooperatives Face Challenges in Energy Transition Timeline,0.232,0.93,False
+2025-08-08,Rate Changes,Colorado Sun,Tri-State Rates Remain Competitive vs Regional Utilities,-0.098,0.46,False
+2025-08-09,Community Impact,Albuquerque Journal,Tri-State Foundation Supports Workforce Development Programs,-0.012,0.96,False
+2025-08-11,Energy Transition,Utility Dive,Clean Energy Shift Creates Job Transition Questions for Tri-State Workers,0.199,0.81,False
+2025-08-12,Coal Retirement,Colorado Sun,Tri-State Plans Managed Coal Plant Transition Through 2030,-0.434,0.7,False
+2025-08-23,Regulatory Compliance,Public Comment - PUC,FERC Order Impacts Cooperative Wholesale Market Participation,-0.273,0.89,False
+2025-08-23,Member Relations,Denver Post,Member Cooperatives Push for More Local Generation Rights,0.093,0.63,False
+2025-08-27,Energy Transition,Public Comment - FERC,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,-0.119,0.41,False
+2025-08-27,Rate Changes,Denver Post,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,0.257,0.67,False
+2025-08-31,Energy Transition,Utility Dive,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.698,0.92,False
+2025-09-01,Energy Transition,Utility Dive,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,-0.167,0.97,False
+2025-09-03,Rate Changes,Public Comment - FERC,FERC Reviews Tri-State Rate Filing Amid Member Concerns,0.043,0.5,False
+2025-09-03,Rate Changes,Social Media,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.515,0.46,False
+2025-09-06,Energy Transition,Public Comment - FERC,Western Cooperatives Face Challenges in Energy Transition Timeline,-0.016,0.74,False
+2025-09-07,Member Relations,Reuters Energy,Tri-State Introduces New Contract Flexibility Framework,-0.667,0.84,False
+2025-09-11,Renewable Energy,Albuquerque Journal,Distributed Solar Growth Creates Grid Management Challenges,0.081,0.43,False
+2025-09-13,Member Relations,Reuters Energy,United Power Seeks Greater Flexibility in Tri-State Contract,-0.509,0.54,False
+2025-09-14,Grid Reliability,Colorado Sun,Winter Storm Tests Western Grid Reliability,-0.042,0.46,False
+2025-09-16,Energy Transition,E&E News,Tri-State Signs 500MW Wind Power Purchase Agreement,0.151,0.98,False
+2025-09-19,Rate Changes,Casper Star-Tribune,Wholesale Rate Stability Critical for Rural Communities,-0.342,0.71,False
+2025-09-19,Rate Changes,Casper Star-Tribune,Cooperative Members Question Rising Wholesale Power Costs,-0.016,0.65,False
+2025-09-19,Renewable Energy,Utility Dive,Tri-State Commissions 200MW Solar Farm in New Mexico,0.754,0.46,False
+2025-09-19,Energy Transition,Public Comment - PUC,Tri-State Announces New Solar Project in Eastern Colorado,-0.317,0.58,False
+2025-09-21,Member Relations,E&E News,Small Rural Co-ops Express Support for Tri-State Stability,-0.041,0.99,False
+2025-09-21,Member Relations,Denver Post,Tri-State Introduces New Contract Flexibility Framework,-0.414,0.58,False
+2025-09-22,Rate Changes,Social Media,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.665,0.9,False
+2025-09-23,Member Relations,Reuters Energy,Tri-State Board Approves Revised Member Exit Provisions,-0.001,0.9,False
+2025-09-25,Renewable Energy,Colorado Sun,Colorado Cooperative Renewable Portfolio Reaches 40%,0.164,0.67,False
+2025-09-29,Rate Changes,Utility Dive,Tri-State Rates Remain Competitive vs Regional Utilities,-0.226,0.99,False
+2025-10-01,Grid Reliability,Public Comment - PUC,Tri-State Deploys Advanced Fault Detection Technology,0.186,0.66,False
+2025-10-05,Grid Reliability,Reuters Energy,New SCADA Systems Improve Real-time Grid Monitoring,0.443,0.51,False
+2025-10-05,Member Relations,Reuters Energy,Small Rural Co-ops Express Support for Tri-State Stability,0.499,0.85,False
+2025-10-06,Community Impact,E&E News,Member Communities Benefit from Cooperative Dividend Distribution,0.329,0.84,False
+2025-10-06,Rate Changes,Social Media,Wholesale Rate Stability Critical for Rural Communities,-0.269,0.62,False
+2025-10-09,Rate Changes,Utility Dive,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.506,0.9,False
+2025-10-09,Regulatory Compliance,Denver Post,Tri-State Enhances Cybersecurity Program for Grid Protection,0.1,0.95,False
+2025-10-10,Renewable Energy,Denver Post,Colorado Cooperative Renewable Portfolio Reaches 40%,0.123,0.5,False
+2025-10-11,Community Impact,Casper Star-Tribune,Tri-State Awards $2M in Community Development Grants,0.268,0.52,False
+2025-10-11,Community Impact,Public Comment - FERC,Rural Broadband Initiative Leverages Cooperative Infrastructure,1.0,0.88,False
+2025-10-12,Grid Reliability,Casper Star-Tribune,Tri-State Invests $150M in Transmission Upgrades,0.343,0.6,False
+2025-10-12,Community Impact,Casper Star-Tribune,Cooperative Model Delivers Value to Rural Western Communities,0.775,0.51,False
+2025-10-13,Rate Changes,Colorado Sun,Wholesale Rate Stability Critical for Rural Communities,-0.042,0.71,False
+2025-10-15,Regulatory Compliance,Denver Post,Tri-State Passes NERC CIP Compliance Audit,0.209,0.56,False
+2025-10-16,Member Relations,Reuters Energy,Tri-State Introduces New Contract Flexibility Framework,-0.339,0.76,False
+2025-10-16,Regulatory Compliance,E&E News,FERC Order Impacts Cooperative Wholesale Market Participation,0.172,0.77,False
+2025-10-18,Member Relations,Public Comment - FERC,Member Cooperatives Push for More Local Generation Rights,-0.426,0.68,False
+2025-10-18,Renewable Energy,Social Media,Tri-State Wind Capacity Surpasses 1GW Milestone,0.502,0.82,False
+2025-10-20,Energy Transition,E&E News,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,0.216,0.92,False
+2025-10-22,Coal Retirement,Reuters Energy,Coal Retirement Costs Create Long-term Financial Obligations,0.392,0.43,False
+2025-10-22,Rate Changes,E&E News,Tri-State Proposes 4.2% Wholesale Rate Increase for 2026,-0.525,0.52,False
+2025-10-22,Community Impact,Public Comment - FERC,Tri-State Foundation Supports Workforce Development Programs,0.035,0.43,False
+2025-10-26,Rate Changes,Reuters Energy,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.461,0.73,False
+2025-10-27,Renewable Energy,Reuters Energy,Distributed Solar Growth Creates Grid Management Challenges,0.348,1.0,False
+2025-10-30,Rate Changes,E&E News,Wholesale Rate Stability Critical for Rural Communities,-0.049,0.99,False
+2025-10-31,Grid Reliability,Casper Star-Tribune,Tri-State Invests $150M in Transmission Upgrades,0.002,0.82,False
+2025-11-02,Renewable Energy,Public Comment - PUC,Tri-State Wind Capacity Surpasses 1GW Milestone,0.146,0.62,False
+2025-11-03,Member Relations,Denver Post,Kit Carson Electric Reports Savings After Partial Exit,-0.347,0.41,False
+2025-11-03,Rate Changes,Public Comment - PUC,Wholesale Rate Stability Critical for Rural Communities,-0.305,0.76,False
+2025-11-03,Rate Changes,Colorado Sun,Rate Restructuring Could Benefit Smaller Member Systems,-0.106,0.47,False
+2025-11-06,Energy Transition,Reuters Energy,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,0.038,0.92,False
+2025-11-06,Rate Changes,Social Media,Tri-State Rates Remain Competitive vs Regional Utilities,-0.434,0.75,False
+2025-11-12,Grid Reliability,Utility Dive,Tri-State Grid Performance Exceeds NERC Standards,0.266,0.86,False
+2025-11-12,Regulatory Compliance,Denver Post,FERC Order Impacts Cooperative Wholesale Market Participation,-0.164,0.84,False
+2025-11-12,Grid Reliability,Casper Star-Tribune,Winter Storm Tests Western Grid Reliability,0.068,0.92,False
+2025-11-14,Energy Transition,Public Comment - PUC,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.159,0.42,False
+2025-11-15,Coal Retirement,Reuters Energy,Workforce Transition Programs Launched for Affected Communities,-0.038,0.54,False
+2025-11-15,Member Relations,Reuters Energy,Tri-State Board Approves Revised Member Exit Provisions,0.064,0.8,False
+2025-11-17,Member Relations,Colorado Sun,United Power seeks 'hyperlocal' energy for Colorado customers after dumping longtime supplier,-0.359,0.97,True
+2025-11-19,Renewable Energy,Public Comment - PUC,Tri-State Wind Capacity Surpasses 1GW Milestone,0.329,0.76,False
+2025-11-19,Energy Transition,Public Comment - FERC,Tri-State Signs 500MW Wind Power Purchase Agreement,-0.29,0.91,False
+2025-11-20,Renewable Energy,Albuquerque Journal,Distributed Solar Growth Creates Grid Management Challenges,0.439,0.77,False
+2025-11-21,Grid Reliability,Casper Star-Tribune,Tri-State Invests $150M in Transmission Upgrades,-0.059,0.98,False
+2025-11-21,Regulatory Compliance,Colorado Sun,Tri-State Enhances Cybersecurity Program for Grid Protection,0.834,0.9,False
+2025-11-21,Energy Transition,Reuters Energy,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,0.173,0.94,False
+2025-11-28,Renewable Energy,Albuquerque Journal,Distributed Solar Growth Creates Grid Management Challenges,0.37,0.69,False
+2025-11-29,Coal Retirement,Colorado Sun,Tri-State Plans Managed Coal Plant Transition Through 2030,0.075,0.92,False
+2025-11-29,Renewable Energy,Colorado Sun,Tri-State Wind Capacity Surpasses 1GW Milestone,0.464,0.43,False
+2025-11-30,Regulatory Compliance,E&E News,Tri-State Passes NERC CIP Compliance Audit,-0.436,0.59,False
+2025-12-01,Regulatory Compliance,Colorado Sun,New EPA Rules Affect Remaining Coal Fleet Operations,0.61,0.79,False
+2025-12-02,Renewable Energy,Colorado Sun,Tri-State Wind Capacity Surpasses 1GW Milestone,0.387,0.44,False
+2025-12-03,Renewable Energy,Reuters Energy,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.342,0.69,False
+2025-12-04,Renewable Energy,Albuquerque Journal,Distributed Solar Growth Creates Grid Management Challenges,0.171,0.45,False
+2025-12-08,Regulatory Compliance,Colorado Sun,Colorado Clean Energy Standards Tighten for Wholesale Providers,-0.293,0.68,False
+2025-12-14,Grid Reliability,Denver Post,Wildfire Risk Drives Enhanced Vegetation Management Program,-0.017,0.97,False
+2025-12-17,Member Relations,Denver Post,United Power Seeks Greater Flexibility in Tri-State Contract,-0.236,0.85,False
+2025-12-18,Coal Retirement,Reuters Energy,Craig Station Unit 3 Retirement Timeline Under Discussion,0.074,0.57,False
+2025-12-20,Community Impact,Albuquerque Journal,Tri-State Awards $2M in Community Development Grants,0.449,0.51,False
+2025-12-21,Renewable Energy,Denver Post,Distributed Solar Growth Creates Grid Management Challenges,0.342,0.85,False
+2025-12-22,Rate Changes,Utility Dive,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.637,0.94,False
+2025-12-24,Renewable Energy,Casper Star-Tribune,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.819,0.96,False
+2025-12-26,Regulatory Compliance,Denver Post,New EPA Rules Affect Remaining Coal Fleet Operations,-0.078,0.99,False
+2025-12-26,Coal Retirement,Denver Post,Coal Retirement Costs Create Long-term Financial Obligations,0.203,0.46,False
+2025-12-27,Renewable Energy,Public Comment - FERC,New Pumped Hydro Study Shows Promise for Tri-State Territory,0.393,0.63,False
+2025-12-27,Energy Transition,Public Comment - PUC,Western Cooperatives Face Challenges in Energy Transition Timeline,0.361,0.99,False
+2025-12-29,Member Relations,Casper Star-Tribune,United Power Seeks Greater Flexibility in Tri-State Contract,-0.764,0.43,False
+2025-12-30,Member Relations,Denver Post,Tri-State Introduces New Contract Flexibility Framework,-0.123,0.98,False
+2025-12-31,Coal Retirement,CPR News,"Trump administration orders aging Colorado coal plant to stay open, one day before closing",0.187,0.71,True
+2026-01-01,Rate Changes,Albuquerque Journal,Cooperative Members Question Rising Wholesale Power Costs,-0.165,0.59,False
+2026-01-01,Rate Changes,Albuquerque Journal,Tri-State Rates Remain Competitive vs Regional Utilities,-0.319,0.42,False
+2026-01-03,Grid Reliability,Denver Post,Wildfire Risk Drives Enhanced Vegetation Management Program,0.622,0.53,False
+2026-01-05,Regulatory Compliance,Casper Star-Tribune,FERC Order Impacts Cooperative Wholesale Market Participation,-0.575,0.73,False
+2026-01-06,Regulatory Compliance,Reuters Energy,Colorado Clean Energy Standards Tighten for Wholesale Providers,0.327,0.47,False
+2026-01-07,Member Relations,Utility Dive,Tri-State Board Approves Revised Member Exit Provisions,-0.546,0.96,False
+2026-01-08,Energy Transition,Albuquerque Journal,Energy Transition Costs Raise Concerns Among Rural Cooperatives,0.416,0.86,False
+2026-01-08,Energy Transition,Casper Star-Tribune,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,-0.083,0.55,False
+2026-01-08,Member Relations,Public Comment - PUC,Member Cooperatives Push for More Local Generation Rights,-0.289,0.6,False
+2026-01-09,Renewable Energy,Public Comment - PUC,Tri-State Wind Capacity Surpasses 1GW Milestone,0.382,0.56,False
+2026-01-12,Energy Transition,Public Comment - PUC,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,0.412,0.41,False
+2026-01-13,Renewable Energy,Colorado Sun,Distributed Solar Growth Creates Grid Management Challenges,0.338,0.56,False
+2026-01-15,Regulatory Compliance,EDF,Groups Take Trump Administration to Court Over Illegal Craig Coal Plant Extension,0.08,0.93,True
+2026-01-15,Coal Retirement,RTO Insider,Colo. Officials Push Back on Craig Coal Plant Extension,0.065,0.99,True
+2026-01-18,Coal Retirement,Public Comment - FERC,Community Impact Plans Announced for Craig Station Workers,-0.145,0.49,False
+2026-01-19,Community Impact,E&E News,Tri-State Foundation Supports Workforce Development Programs,0.313,0.68,False
+2026-01-20,Renewable Energy,Casper Star-Tribune,Tri-State Commissions 200MW Solar Farm in New Mexico,0.004,0.54,False
+2026-01-20,Energy Transition,Social Media,Tri-State's Responsible Energy Plan Draws Mixed Reactions from Members,0.569,0.77,False
+2026-01-20,Rate Changes,Colorado Newsline,"Trump's 'emergency' Colorado coal plant order will raise electricity costs, operator says",-0.139,0.73,True
+2026-01-20,Member Relations,Casper Star-Tribune,Member Cooperatives Push for More Local Generation Rights,-0.48,0.43,False
+2026-01-26,Energy Transition,Casper Star-Tribune,Tri-State Signs 500MW Wind Power Purchase Agreement,0.004,0.68,False
+2026-01-26,Renewable Energy,Social Media,Colorado Cooperative Renewable Portfolio Reaches 40%,0.544,0.43,False
+2026-01-29,Coal Retirement,Colorado Sun,Colorado AG asks Trump administration to let Craig's coal plant close as planned,-0.12,0.75,True
+2026-01-30,Renewable Energy,Casper Star-Tribune,Tri-State Wind Capacity Surpasses 1GW Milestone,0.017,0.57,False
+2026-01-30,Coal Retirement,Colorado Sun,Tri-State says no thanks to federal orders to keep Craig coal power plant open,0.031,0.76,True
+2026-01-30,Regulatory Compliance,CPR News,Colorado power providers challenge Trump order blocking coal plant closure,0.086,0.83,True
+2026-02-01,Energy Transition,Public Comment - FERC,Tri-State Accelerates Clean Energy Goals Ahead of 2030 Target,-0.524,0.95,False
+2026-02-02,Coal Retirement,Casper Star-Tribune,Tri-State Plans Managed Coal Plant Transition Through 2030,-0.438,0.79,False
+2026-02-02,Renewable Energy,Albuquerque Journal,Tri-State Commissions 200MW Solar Farm in New Mexico,0.274,0.54,False
+2026-02-04,Coal Retirement,RTO Insider,Fight Heats up over Colorado's Craig Coal Plant Extension,-0.337,0.79,True
+2026-02-08,Coal Retirement,Public Comment - PUC,Tri-State Plans Managed Coal Plant Transition Through 2030,-0.274,0.62,False
+2026-02-09,Coal Retirement,Colorado Sun,Environmental Groups Praise Accelerated Coal Phase-out,-0.042,0.58,False
+2026-02-10,Energy Transition,Utility Dive,Western Cooperatives Face Challenges in Energy Transition Timeline,0.031,0.63,False
+2026-02-11,Renewable Energy,Reuters Energy,Tri-State Commissions 200MW Solar Farm in New Mexico,0.194,0.71,False
+2026-02-13,Renewable Energy,Casper Star-Tribune,Colorado Cooperative Renewable Portfolio Reaches 40%,0.138,0.57,False
+2026-02-14,Renewable Energy,Casper Star-Tribune,Battery Storage Integration Advances at Tri-State Facilities,0.131,0.79,False
+2026-02-14,Rate Changes,Social Media,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.406,0.6,False
+2026-02-16,Member Relations,Colorado Sun,Tri-State Board Approves Revised Member Exit Provisions,-0.591,0.77,False
+2026-02-16,Member Relations,Colorado Sun,Member Cooperatives Push for More Local Generation Rights,0.106,0.55,False
+2026-02-17,Rate Changes,Public Comment - PUC,FERC Reviews Tri-State Rate Filing Amid Member Concerns,-0.047,0.89,False
+2026-02-17,Member Relations,Albuquerque Journal,United Power Seeks Greater Flexibility in Tri-State Contract,-0.256,0.83,False
+2026-02-21,Member Relations,Utility Dive,Tri-State Introduces New Contract Flexibility Framework,-0.102,0.46,False
+2026-02-22,Regulatory Compliance,RTO Insider,Colorado Bill Addresses Impacts of Coal Plant Extensions,-0.102,0.79,True
+2026-02-23,Coal Retirement,NPR,Colorado coal plant objects to Trump order to stay open,-0.003,0.81,True
+2026-02-25,Grid Reliability,Utility Dive,Tri-State Grid Performance Exceeds NERC Standards,0.517,0.55,False
+2026-02-26,Grid Reliability,Casper Star-Tribune,New SCADA Systems Improve Real-time Grid Monitoring,0.047,0.54,False
+2026-03-01,Grid Reliability,Colorado Sun,Tri-State Grid Performance Exceeds NERC Standards,0.278,0.57,False
+2026-03-01,Grid Reliability,Power Magazine,"Tri-State's Vision for Lower Cost, Greater Efficiency About to Become Reality",0.067,0.86,True
+2026-03-04,Coal Retirement,Reuters Energy,Tri-State Plans Managed Coal Plant Transition Through 2030,-0.082,0.54,False
+2026-03-05,Renewable Energy,Social Media,Battery Storage Integration Advances at Tri-State Facilities,0.546,0.66,False
+2026-03-08,Energy Transition,E&E News,Tri-State Announces New Solar Project in Eastern Colorado,0.008,0.9,False
+2026-03-08,Renewable Energy,Casper Star-Tribune,Battery Storage Integration Advances at Tri-State Facilities,0.4,0.87,False
+2026-03-08,Grid Reliability,E&E News,Wildfire Risk Drives Enhanced Vegetation Management Program,0.413,0.94,False
+2026-03-12,Member Relations,Social Media,La Plata Electric Explores Partial Requirements Options,-0.2,0.72,False
+2026-03-13,Grid Reliability,E&E News,New SCADA Systems Improve Real-time Grid Monitoring,-0.022,0.75,False
+2026-03-17,Regulatory Compliance,Public Comment - FERC,Colorado Clean Energy Standards Tighten for Wholesale Providers,0.026,0.64,False
+2026-03-18,Regulatory Compliance,Colorado Sun,Colorado sues to block Energy Department orders keeping Craig coal unit open,0.27,0.76,True
+2026-03-19,Energy Transition,Public Comment - PUC,Clean Energy Shift Creates Job Transition Questions for Tri-State Workers,0.186,0.95,False
+2026-03-19,Regulatory Compliance,RTO Insider,Petitions Filed to Overturn DOE's Craig Coal Plant Extension,0.016,0.85,True
+2026-03-23,Energy Transition,E&E News,Western Cooperatives Face Challenges in Energy Transition Timeline,0.464,0.44,False
+2026-03-26,Coal Retirement,Public Comment - PUC,Environmental Groups Praise Accelerated Coal Phase-out,0.087,0.81,False
+2026-03-29,Energy Transition,RTO Insider,SPP RTO Expands into Western Interconnection April 1,0.068,0.88,True
+2026-03-30,Coal Retirement,Colorado Sun,Life of coal burning Craig Unit 1 extended again by Trump administration,-0.033,0.75,True
+2026-03-30,Rate Changes,Public Comment - FERC,Rate Restructuring Could Benefit Smaller Member Systems,-0.277,0.78,False
+2026-03-30,Regulatory Compliance,RTO Insider,DOE Extends 202(c) Order for Craig Plant Days Before it Joins SPP RTO West,-0.04,0.91,True
+2026-03-30,Community Impact,Public Comment - FERC,Rural Broadband Initiative Leverages Cooperative Infrastructure,0.467,0.9,False
