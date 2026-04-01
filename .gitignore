@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Logs
+*.log
+
+# Local-only files
+run.bat
+run.sh
+nul
+
+# Interview prep docs (keep private)
+EXPERT_PANEL_PREP.html
+INTERVIEW_DEEP_PREP.html
+PRESENTATION_SCRIPT.md
+THE_REAL_PREP.html
+presentation_script.html
+
+# Python cache
+__pycache__/
+*.pyc
